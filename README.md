@@ -1,5 +1,5 @@
 # EstagioRibeiraoPreto
-1 - No final do processamento, o valor da variável SOMA será 91.
+1 - SOMA = 91.
 
 2 -
 def fibonacci(n):
